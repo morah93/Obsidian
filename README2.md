@@ -23,3 +23,9 @@ All products page:
 
 
 ![ecommerce5](https://github.com/morah93/Obsidian/assets/97058803/350fbdd9-8658-47f9-80bf-993c59a9525c)
+
+
+Single product page:
+
+
+![ecommerce6](https://github.com/morah93/Obsidian/assets/97058803/0812d4f9-fa69-451d-82ae-904dcc3411c1)
