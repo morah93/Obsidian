@@ -29,3 +29,9 @@ Single product page:
 
 
 ![ecommerce6](https://github.com/morah93/Obsidian/assets/97058803/0812d4f9-fa69-451d-82ae-904dcc3411c1)
+
+
+Cart page:
+
+
+![ecommerce7](https://github.com/morah93/Obsidian/assets/97058803/ad2d8f07-830e-4032-92c3-ea537089da93)
